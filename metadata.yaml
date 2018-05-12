@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '33717'
     url: http://www.gutenberg.org/2009/agents/33717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29141#Two-New-Pocket-Gophers-from-Wyoming-and-Colorado
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal

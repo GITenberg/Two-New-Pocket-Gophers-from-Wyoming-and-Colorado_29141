@@ -1,0 +1,36 @@
+_repo: Two-New-Pocket-Gophers-from-Wyoming-and-Colorado_29141
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+  - agent_name: Montague, H. Gordon
+    gutenberg_agent_id: '33717'
+    url: http://www.gutenberg.org/2009/agents/33717
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2009-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29141'
+  lccn: '52062382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mammals -- Colorado'
+- !lcsh 'Pocket gophers'
+- !lcsh 'Mammals -- Wyoming'
+- !lcc 'QH'
+title: Two New Pocket Gophers from Wyoming and Colorado
+url: http://www.gutenberg.org/ebooks/29141
